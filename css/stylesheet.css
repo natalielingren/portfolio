@@ -1,0 +1,64 @@
+nav a{
+font-family: "Overpass";
+font-weight: 200;
+text-decoration: none;
+color: black;
+}
+
+nav a:hover, nav a:focus{
+  color: #ffe13d
+}
+
+body{
+  font-family: "Roboto";
+  font-weight: 200;
+  background-color: yellow;
+}
+
+ol{
+  font-family: "Roboto";
+  font-weight: 200;
+}
+
+ul{
+  font-family: "Roboto";
+  font-weight: 200;
+}
+
+code{
+  font-family: "Roboto";
+  font-weight: 200;
+}
+
+h1{
+  font-family: "Catamaran";
+  font-weight: 400;
+  font-size: 2rem;
+}
+
+h2{
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 1rem;
+}
+
+h3{
+  font-family: "Roboto";
+  font-weight: 100;
+  font-size: .5rem;
+}
+
+.in-text-link{
+  font-size: 6rem;
+  text-decoration: none;
+  color: #ff19ae;
+}
+
+.in-text-link:focus, .in-text-link:hover{
+  text-decoration: none;
+  color: #870d5c;
+}
+
+section{
+  background-color: white;
+}
